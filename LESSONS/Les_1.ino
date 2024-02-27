@@ -14,3 +14,4 @@ digitalWrite(LED,LOW);
 // пауза 1 сек (1000 мс)
 delay(1000);
 }  
+
